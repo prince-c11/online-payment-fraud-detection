@@ -15,9 +15,9 @@ This project aims to detect online payment fraud using machine learning algorith
 
 Online payment fraud is a significant concern in today's digital world. This project aims to develop a fraud detection system using machine learning algorithms. Three primary classification algorithms have been used: Logistic Regression, Decision Tree, and Random Forest.
 
-## Usage
+## Steps
 
-In the `notebooks` directory, you will find Jupyter Notebook files that contain the code for different phases of the project. 
+The following steps are involved in the project. 
 
 - Preprocess and explore the dataset.
 - Train and evaluate the machine learning models.
