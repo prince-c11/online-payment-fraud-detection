@@ -5,7 +5,7 @@ This project aims to detect online payment fraud using machine learning algorith
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Usage](#usage)
+- [Steps](#Steps)
 - [Data](#data)
 - [Methods](#methods)
 - [Results](#results)
