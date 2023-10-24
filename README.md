@@ -25,7 +25,8 @@ In the `notebooks` directory, you will find Jupyter Notebook files that contain 
 
 ## Data
 
-The project uses a dataset for online payment fraud detection. You can find the dataset in the 'payment.csv' file. 
+The project uses a dataset for online payment fraud detection. Visit https://drive.google.com/file/d/1qrQrLu9F8mw8__bedSm946SuunYQx_K4/view?usp=drive_link
+for the dataset. 
 
 ## Methods
 
@@ -35,11 +36,11 @@ Three classification algorithms are used in this project:
 2. Decision Tree
 3. Random Forest
 
-Each algorithm's implementation and performance evaluation are present in notebook.
+Each algorithm's implementation and performance evaluation are present in the notebook.
 
 ## Results
 
-The results of the experiments are available in the Jupyter NoteBook file. You can analyze the model performance, accuracy, and other relevant metrics for each classification algorithm.
+The results of the project are available in the Jupyter Notebooks file. You can analyze each classification algorithm's model performance, accuracy, and other relevant met.
 
 
 ## License
